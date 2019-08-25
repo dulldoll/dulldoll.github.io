@@ -1,0 +1,2 @@
+# dulldoll.github.io
+blog
